@@ -1,0 +1,29 @@
+model_dev/
+©À©¤©¤ PreTrainModel/
+©¦   ©À©¤©¤ added_tokens.json
+©¦   ©À©¤©¤ config.json
+©¦   ©À©¤©¤ pytorch_model.bin
+©¦   ©À©¤©¤ remove_chas_table.pkl
+©¦   ©À©¤©¤ special_tokens_map.json
+©¦   ©À©¤©¤ tokenizer.json
+©¦   ©À©¤©¤ tokenizer_config.json
+©¦   ©¸©¤©¤ vocab.txt
+©À©¤©¤ data/
+©¦   ©À©¤©¤ data_output/
+©¦   ©À©¤©¤ data_raw/
+©¦   ©¸©¤©¤ data_train/
+©¦   ©¦   ©À©¤©¤ test.csv
+©¦   ©¦   ©À©¤©¤ train.csv
+©¦   ©¦   ©¸©¤©¤ valid.csv
+©À©¤©¤ save_dict/
+©¦   ©À©¤©¤ DPCNN0_acc_0.0.pth
+©¦   ©À©¤©¤ DPCNN1_acc_0.0.pth
+©¦   ©À©¤©¤ DPCNN_best.pth
+©¦   ©¸©¤©¤ DPCNNfinal.pth
+©À©¤©¤ utils/
+©¦   ©¸©¤©¤ model_multilabel.py
+©À©¤©¤ README.txt
+©À©¤©¤ eval.py
+©À©¤©¤ predict.py
+©À©¤©¤ project_structure.txt
+©¸©¤©¤ train.py

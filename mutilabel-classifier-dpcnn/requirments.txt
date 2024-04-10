@@ -1,0 +1,5 @@
+Python 3.10.9
+Pytorch 2.0.1
+transformers 4.24.0
+sklearn 1.2.1
+
